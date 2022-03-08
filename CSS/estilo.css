@@ -1,0 +1,17 @@
+body{
+    background: url(../IMG/fondo.jpg);
+    margin: 0px auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+label{
+    color: aliceblue;
+}
+
+form{
+    margin-top: 20%;
+}
+
